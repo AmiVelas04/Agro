@@ -54,3 +54,6 @@ D:\DevGeneral\Documentos\Sistemas\Central\Central\obj\Debug\Central.application
 D:\DevGeneral\Documentos\Sistemas\Central\Central\obj\Debug\Central.exe
 D:\DevGeneral\Documentos\Sistemas\Central\Central\obj\Debug\Central.pdb
 D:\DevGeneral\Documentos\Sistemas\Central\Central\obj\Debug\Central.csprojResolveAssemblyReference.cache
+D:\DevGeneral\Documentos\Sistemas\Agropecuaria\Agro\Agro\Central\bin\Debug\Central.exe.config
+D:\DevGeneral\Documentos\Sistemas\Agropecuaria\Agro\Agro\Central\obj\Debug\Central.exe
+D:\DevGeneral\Documentos\Sistemas\Agropecuaria\Agro\Agro\Central\obj\Debug\Central.pdb
